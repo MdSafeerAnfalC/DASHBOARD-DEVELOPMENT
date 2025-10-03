@@ -81,3 +81,11 @@ Scalable Design: Works for different datasets and can easily be extended with ne
 🌟 Overall Feedback
 
 This dashboard is an excellent demonstration of interactive data visualization. It combines real-world data, machine learning-style insights (KPIs), and intuitive charts into one interactive app. It shows your ability to go beyond static analysis and deliver an analytical tool that end-users can explore dynamically. With small UI improvements and time-series insights, this could be a portfolio-ready project.
+
+*OUTPUT*
+
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/698240e1-1707-49dc-ad05-cb7ef8398521" />
+
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/f63eddcd-ac95-4cd8-b0b6-9a42c9ebb973" />
+
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/c9406ec5-cd88-4cec-9b24-6a1340cf817e" />
